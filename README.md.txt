@@ -69,8 +69,8 @@ jupyter notebook
 
 ## 📊 Results
 
-* Model Accuracy: XX%
-* (Add graphs/screenshots if available)
+* Model Accuracy: 94%
+
 
 ---
 
