@@ -44,7 +44,7 @@ Indian-Language-Audio-Classification/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/Indian-Language-Audio-Classification.git
+git clone https://github.com/Charankumm/Indian-Language-Audio-Classification.git
 ```
 
 2. Navigate to the folder:
